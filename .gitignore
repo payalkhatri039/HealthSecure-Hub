@@ -1,0 +1,33 @@
+# IDE-specific VS files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Build artifacts
+/build/
+/dist/
+/out/
+/target/
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Temporary files
+.DS_Store
+
+
+#Elasticsearch
+/elasticsearch/data/
+/elasticsearch/logs/
